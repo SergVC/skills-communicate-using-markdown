@@ -10,3 +10,6 @@
 def say_hi():
     print("Hello there")
 ```
+
+- [x] A task
+- [ ] Another task
